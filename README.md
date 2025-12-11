@@ -1,6 +1,8 @@
 # Odin Project 3rd Assignment
 [Odin Project](https://github.com/theodinproject) which is helping me learn web development.\
 This 3rd assignment is about to create very basic landing page.\
+**Project Note**\
+> You do not need to make this project responsive. That means you don’t have to adjust your design for different screen sizes, zoom levels, or mobile devices. For now, just focus on making it look good on a regular computer screen. You’ll learn how to handle different screen sizes later.\
 **Project Reference Image 1**
 ![Project Reference Image](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
 **Project Reference Image 2**\
